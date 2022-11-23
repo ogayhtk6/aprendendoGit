@@ -44,6 +44,8 @@ int main()
     divisao = divisao(n1, n2);
     multiplicacao = multiplicacao(n1, n2);
 
+    printf("Ola!")
+
     printf("A Soma de n1 e n2 é: %d", soma);
     printf("A Subtração de n1 e n2 é: %d", subtracao);
     printf("A Divisão de n1 e n2 é: %d", divisao);
