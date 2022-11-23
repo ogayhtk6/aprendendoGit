@@ -4,3 +4,5 @@ console.log(a)
 let b = 50
 
 let c = 60
+
+let d = 70
