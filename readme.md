@@ -10,3 +10,4 @@ I am Iderlan.
 6 - Dar Fetch Origin
 7 - Colocar Summary e Descrição
 8 - Dar Commit to Main
+9 - Dar Push Origin
